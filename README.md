@@ -1,23 +1,9 @@
 
 # 💻 Tech Stack:
 
-#### Coding
-<img height="32" width="32" src="https://cdn.simpleicons.org/python" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> 
-
-#### Professional software
-<img height="32" width="32" src="https://cdn.simpleicons.org/arcgis" /> <img height="32" width="32" src="https://cdn.simpleicons.org/qgis" />
-
-#### Data analysis and numerical modeling
-<img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow" /> <img height="32" width="32" src="https://cdn.simpleicons.org/keras" /> <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn" /> <img height="32" width="32" src="https://cdn.simpleicons.org/scipy" />
-
-#### Typesetting
-<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftword" /> <img height="32" width="32" src="https://cdn.simpleicons.org/latex" />
-
-#### Database
-<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
-
-#### Also familiar with:
-<img height="32" width="32" src="https://cdn.simpleicons.org/numba" /> <img height="32" width="32" src="https://cdn.simpleicons.org/git" /> <img height="32" width="32" src="https://cdn.simpleicons.org/c++" /> <img height="32" width="32" src="https://cdn.simpleicons.org/oracle" /> <img height="32" width="32" src="https://cdn.simpleicons.org/autodesk/444/bbb" /> <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" /> <img height="32" width="32" src="https://cdn.simpleicons.org/anaconda" /> 
+| Programming| Professional software | Data analysis and numerical modeling | Typesetting | Database | Also familiar with |
+|     :--:    |     :--:      |     :--:      |     :--:      |     :--:      |     :--:      |
+|<img height="32" width="32" src="https://cdn.simpleicons.org/python" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" /> | <img height="32" width="32" src="https://cdn.simpleicons.org/arcgis" /> <img height="32" width="32" src="https://cdn.simpleicons.org/qgis" /> | <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow" /> <img height="32" width="32" src="https://cdn.simpleicons.org/keras" /> <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn" /> <img height="32" width="32" src="https://cdn.simpleicons.org/scipy" /> |<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftword" /> <img height="32" width="32" src="https://cdn.simpleicons.org/latex" /> |<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" /> |<img height="32" width="32" src="https://cdn.simpleicons.org/numba" /> <img height="32" width="32" src="https://cdn.simpleicons.org/git" /> <img height="32" width="32" src="https://cdn.simpleicons.org/c++" /> <img height="32" width="32" src="https://cdn.simpleicons.org/oracle" /> <img height="32" width="32" src="https://cdn.simpleicons.org/autodesk/444/bbb" /> <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" /> <img height="32" width="32" src="https://cdn.simpleicons.org/anaconda" /> |
 
 # 📊 GitHub Stats:
 
