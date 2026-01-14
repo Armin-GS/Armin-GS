@@ -1,17 +1,55 @@
+<div align="center">
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-| Programming| Professional software | Data analysis and numerical modeling | Typesetting | Database | Also familiar with |
-|     :--:    |     :--:      |     :--:      |     :--:      |     :--:      |     :--:      |
-|<img height="32" width="32" src="https://cdn.simpleicons.org/python/888888" title="Python" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/888888" title="Javascript" /> | <img height="32" width="32" src="https://cdn.simpleicons.org/arcgis/888888" title="ArcGIS" /> <img height="32" width="32" src="https://cdn.simpleicons.org/qgis/888888" title="QGIS" /> | <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/888888" title="Tensorflow" /> <img height="32" width="32" src="https://cdn.simpleicons.org/keras/888888" title="Keras" /> <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/888888" title="Pytorch" /> <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/888888" title="Scikitlearn" /> <img height="32" width="32" src="https://cdn.simpleicons.org/scipy/888888" title="Scipy" /> <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/888888" title="Pandas"/> <img height="32" width="32" src="https://cdn.simpleicons.org/geopandas/888888" title="GeoPandas"/> <img height="32" width="32" src="https://cdn.simpleicons.org/numpy/888888" title="Numpy" /> | <img height="32" width="32" src="https://cdn.simpleicons.org/latex/888888" title="Latex" /> |<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/888888" title="PostgreSQL"/> |<img height="32" width="32" src="https://cdn.simpleicons.org/numba/888888" title="Numba" /> <img height="32" width="32" src="https://cdn.simpleicons.org/kotlin/888888" title="Kotlin" /> <img height="32" width="32" src="https://cdn.simpleicons.org/git/888888" title="Git" /> <img height="32" width="32" src="https://cdn.simpleicons.org/c++/888888" title="C++"/> <img height="32" width="32" src="https://cdn.simpleicons.org/autodesk/888888" title="Autodesk" /> <img height="32" width="32" src="https://cdn.simpleicons.org/anaconda/888888" title="Anaconda" /> |
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
 
-# 📊 GitHub Stats:
+### Data Science & AI
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Numba-0033CC?style=for-the-badge&logo=numba&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 
-![](https://github-readme-stats.vercel.app/api?username=armin-gs&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=armin-gs&theme=onedark&hide_border=true)<br/>
+### Geospatial & Engineering
+<img src="https://img.shields.io/badge/ArcGIS-005E95?style=for-the-badge&logo=arcgis&logoColor=white" />
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Armin-GS&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+### Tools & Databases
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+
+<br/>
+<br/>
+
+# 📊 Activity & Stats
+
+<img src="github-metrics.svg" alt="Metrics" width="100%">
+
+<br/>
+
+## 🏆 Trophies
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Armin-GS&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</a>
+
+<br/>
+<br/>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Armin-GS&icon=5&color=12)](https://visitcount.itsvg.in)
+
+</div>
