@@ -19,15 +19,9 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
-          
-          # Fix 1: Add Trophies/Achievements internally (Replace broken external link)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: no
-          plugin_achievements_threshold: B
 
-          # Fix 2: Point to the correct branch name
+          # Output settings
           filename: github-metrics.svg
           output_action: commit
           committer_branch: main 
-          committer_message: "chore: update metrics"
+          committer_message: "chore: update metrics."
